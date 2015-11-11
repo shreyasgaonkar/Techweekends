@@ -1,6 +1,6 @@
 # Techweekends
 
-Techweekends, an initiative by Rohit Bobade and Shreyas Gaonkar to inspire young school and college students about Electronics, Robotics and Computer Programming.
+Techweekends, an initiative by <a href="https://github.com/rohitbobade">Rohit Bobade</a> and <a href="https://github.com/shreyasgaonkar">Shreyas Gaonkar</a> to inspire young school and college students about Electronics, Robotics and Computer Programming.
 
 
 ###Technology used:<br />
