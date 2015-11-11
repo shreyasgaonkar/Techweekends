@@ -14,8 +14,12 @@ Techweekends, an initiative by Rohit Bobade and Shreyas Gaonkar to inspire young
 <p>Click <a href="http://techweekends.in/">here</a> to see the project.
 </p>
 
+<img src="http://techweekends.in/assets/images/techweekends-logo.png" width="250" alt="Shreyas Gaonkar"><br />
+
 ## Contact
 
 
 * Email: contact@techweekends.in
 * Feel free to contact us for any information or suggestion [here](mailto:shreyas.gaonkar@yahoo.com)
+
+
