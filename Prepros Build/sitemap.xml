@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.techweekends.in/</loc>
+  <lastmod>2015-06-18T18:54:02+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.techweekends.in/index.html</loc>
+  <lastmod>2015-06-18T18:54:02+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.techweekends.in/electronics.html</loc>
+  <lastmod>2015-06-18T18:54:01+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.techweekends.in/computer.html</loc>
+  <lastmod>2015-06-18T18:54:01+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.techweekends.in/contact.html</loc>
+  <lastmod>2015-06-18T18:54:01+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.techweekends.in/free.html</loc>
+  <lastmod>2015-06-18T18:54:02+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.techweekends.in/erc.html</loc>
+  <lastmod>2015-06-18T18:54:02+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.techweekends.in/cp.html</loc>
+  <lastmod>2015-06-18T18:54:01+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
